@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 int isprime(int x) {
     int o = 0;
     for (int i = 2; i < x / 2; i++) {
